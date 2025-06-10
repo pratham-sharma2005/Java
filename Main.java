@@ -1443,5 +1443,56 @@
 //     }
 // }
 
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
+// class Main {
+//     public static void main(String[] args) {
+//         int number=10;
+//         int temp0 =0;
+//         int temp1 = 1;
+        
+        
+//         for(int i = 0 ;i < number-1 ;i++){
+//             System.out.println( temp0 + " ");
+//             int temp2 = temp0 +temp1;
+//             temp0 = temp1;
+//             temp1=temp2; 
+//         }
+
+//     }
+// }
+
+
+// class Main {
+
+//      static int Fibonacci(int n){
+//         if(n<=1) return n;
+
+
+
+//     return Fibonacci(n-1)+Fibonacci(n-2);
+//     }
+//     public static void main(String[] args) {
+
+//         int n =10;
+//         for(int i = 0 ;i < n-1 ;i++){
+
+//             System.out.print(Fibonacci(i)+ " ");
+            
+//     }
+// }
+// }
+
+
+// class Main {
+//     public static void main(String[] args) {
+//         for( int i =0 ; i < 4; i++){
+//             for( int j =0 ; j < 4; j++){
+//              if( i >= j){
+//                 System.out.print(j+1);
+//              }
+//             }
+//             System.out.println();
+//         }
+//     }
+// }
+
+
